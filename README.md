@@ -1,4 +1,4 @@
-# Perp DEX Tools — Multi-Exchange Trading Bot
+# Perp DEX Toolkit — Multi-Exchange Trading Bot
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B%20|%203.10–3.12-blue)
 ![License](https://img.shields.io/badge/License-Non--Commercial-lightgrey)
@@ -410,10 +410,16 @@ After configuring the account in `.env`, select a contract with `--ticker`, e.g.
 4. Add tests when applicable
 5. Submit a pull request
 
-## Contact
+## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
 
-- X (Twitter): [@yourQuantGuy](https://x.com/yourQuantGuy)
-- Issues & feature requests: open a ticket in this repository’s `Issues` tab
+Telegram: https://t.me/opensea712
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
 
 ## License
 
